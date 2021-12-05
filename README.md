@@ -12,11 +12,7 @@ In this project I use pytorch's nn.module package to build a RNN+CNN model to cl
 
 
 **Results**
-
-
 Training and Validation
-
-
 Training starts!
 
 ---------------------------------------------------------------------------------------------------
