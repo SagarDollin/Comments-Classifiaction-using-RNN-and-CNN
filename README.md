@@ -6,11 +6,10 @@ In this project I use pytorch's nn.module package to build a RNN+CNN model to cl
 
 ![RNN+CNN](model_architecture.jpg)
 
+
 **Results**
 Training and Validation
-
 Training starts!
-
 ---------------------------------------------------------------------------------------------------
 
 | Epoch   1 | train loss  0.68 | train acc 58.44 | val loss  0.67 | val acc 57.14 | time:  2.68s |
