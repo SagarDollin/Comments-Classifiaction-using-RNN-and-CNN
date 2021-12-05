@@ -7,6 +7,10 @@ In this project I use pytorch's nn.module package to build a RNN+CNN model to cl
 ![RNN+CNN](model_architecture.jpg)
 
 
+
+
+
+
 **Results**
 
 
