@@ -13,6 +13,8 @@ In this project I use pytorch's nn.module package to build a RNN+CNN model to cl
 
 **Results**
 
+The best model achieved in terms of validation accuracy achieves **90.22 training accuracy and 88.78 validation accuracy.**
+
 Training and Validation
 
 Training starts!
